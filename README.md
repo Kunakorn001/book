@@ -24,14 +24,14 @@ description: การติดตั้งWindow Server ใน VM
 
 5\. เลือก VMDK จากนั้นกด Next
 
-![](<.gitbook/assets/image (45).png>)
+![](<.gitbook/assets/image (59).png>)
 
 6.กด Next&#x20;
 
-![](<.gitbook/assets/image (50).png>)
+![](<.gitbook/assets/image (43).png>)
 
 7\. เลือก ที่อยู่ไฟล์และขนาดของ ที่เก็บข้อมูลที่เราต้องการ จากนั้นกด Create&#x20;
 
-![](<.gitbook/assets/image (28).png>)
+![](<.gitbook/assets/image (86).png>)
 
 8.กดที่เมนู Start เพื่อเปิดเครื่อง&#x20;

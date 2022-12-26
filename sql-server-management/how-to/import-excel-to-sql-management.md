@@ -4,35 +4,35 @@
 
 2.คลิกขวาที่ DataBase เลือกเมนู Tasks -> Import Flat File&#x20;
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (62).png>)
 
 3\. จะได้หน้าต่าง แบบในรูปขึ้นมา ให้ คลิก Next ไปยังหน้าถัดไปได้เลย
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (21).png>)
 
 4.เมื่อ คลิก Next จะเข้าสู่หน้าที่จะให้เลือกไฟล์ที่เป็นนามสกุล (.csv)
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 5.เมื่อเราคลิก  Next แล้ว จะแสดงหน้าตารางข้อมูลที่มีอยู่ในไฟล์ที่เราเลือกมา
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (38).png>)
 
 6.เมื่อเรากด Next แล้วหน้าถัดมาคือ หน้าสำหรับเอาไว้แก้ไข ข้อมูลของตารางที่เราImport มา
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (51).png>)
 
 7.หน้าถัดมาจะเป็นหน้าสำหรับแสดงข้อมูลภาพรวมก่อนจะนำมา ใส่ในDatabase&#x20;
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (54).png>)
 
 8.เมื่อเรากด เสร็สสิ้น ระบบจะโชว์ว่าเราImport เข้ามาสำเร็จหรือไหม ถ้าสำเร็จ จะขึ้นสีเขียว ถ้าไม่สำเร็จ แปลว่าข้อมูลที่เรา Import มาใส่มีปัญหา และจะขึ้น Error สีแดง&#x20;
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/image (80).png>)
 
 9.ตารางที่เรา Import มาจะเข้าไปอยู่ใน Folder Table&#x20;
 
-![](<../../.gitbook/assets/image (69).png>)
+![](<../../.gitbook/assets/image (83).png>)
 
 ## วิธีการเรียกดู ข้อมูลในตาราง
 
@@ -40,8 +40,8 @@
 
 2.เลือกเมนู Select Top 1000 Rows
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (85).png>)
 
 3.เมื่อกดแล้ว จะแสดงข้อมูลที่เราImport เข้ามา
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (78).png>)

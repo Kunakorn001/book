@@ -2,17 +2,17 @@
 
 1.ให้เราคลิกขวาที่ DataBase ที่เราต้องการจะทำการ Backup ให้เราคลิกขวาแล้ว เลือกเมนู Task -> Back up&#x20;
 
-![](<.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 3.จากนั้นจะมีสามเมนูให้เราเลือกคือ\
 1.ชื่อDataBase ที่เราต้องการ\
 2\. รูปแบบของการ  Back up \
 3\. ที่อยู่ของไฟล์ที่เราจะทำการ Back up&#x20;
 
-![](<.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (53).png>)
 
 
 
 4.เมื่อตั้งค่าเสร็สเรียบร้อยให้กดปุ่ม OK จากนั้นจะเป็นการเสร็สสิ้นการ Back up และสามารถเข้าไปตรวจสอบได้ตามที่อยู่ไฟล์ที่เราตั้งไว้&#x20;
 
-![](<.gitbook/assets/image (44).png>) ![](<.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (29).png>) ![](<../../.gitbook/assets/image (87).png>)

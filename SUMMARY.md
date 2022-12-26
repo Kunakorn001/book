@@ -7,6 +7,7 @@
 ## Set up Window Server
 
 * [Set up Window](set-up-window-server/set-up-window.md)
+* [Page 1](set-up-window-server/page-1.md)
 
 ## sql server management
 
@@ -16,7 +17,6 @@
   * [Create DataBase](sql-server-management/how-to/create-database.md)
   * [Import Excel to SQL Management](sql-server-management/how-to/import-excel-to-sql-management.md)
   * [Auto Back up](sql-server-management/how-to/auto-back-up.md)
-
-***
-
-* [Manual Backup](manual-backup.md)
+  * [Manual Backup](sql-server-management/how-to/manual-backup.md)
+  * [Remote Database](sql-server-management/how-to/remote-database.md)
+  * [Restore](sql-server-management/how-to/restore.md)

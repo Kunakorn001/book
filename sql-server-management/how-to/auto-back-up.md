@@ -2,23 +2,23 @@
 
 1.เลือก โฟรเดอร์ Management  ->Maintenace Plan จากนั้น คลิกขวา เลือกเมนู Maintenance Plan Wizard&#x20;
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (44).png>)
 
 2.คลิก Next&#x20;
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (50).png>)
 
 3.เมื่อกด Next จะเข้าหน้าสำหรับการตั้งชื่อ และใส่รายละเอียด
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (22).png>)
 
 4.เมื่อตั้งชื่อเสร็ส ให้กดเมนู Change เพื่อเข้าสู่การตั้งค่า
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (89).png>)
 
 5.ในหน้านี้จะสามารถตั้งค่าได้ว่า ต้องการให้ Backup เวลาไหน วันไหน กี่นาที หรือ กี่ชั่วโมง เริ่มต้นเวลาไหน จบเวลาไหน สามารถตั้งค่าได้หมดเลยครับในหน้านี่
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (73).png>)
 
 6.เมื่อเราตั้งค่าเสร็สแล้ว ให้กด OK และกด Next จากนั้นจะเข้ามาสู่การเลือกรูปแบบของการบันทึก โดยจะมีสอง รูปแบบหลักคือ
 
@@ -26,10 +26,10 @@
 
 2.การบันทึกแบบ  Differential คือการบันทึกแค่ส่วนที่ Up Date เข้ามา&#x20;
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (61).png>)
 
 7.จากนั้นคลิก Next มาเรื่อย จนกระทั้งถึงหน้าที่ต้อง เลือก DataBase ให้เลือก DataBase ที่เราต้องการจะบันทึก&#x20;
 
-![](<../../.gitbook/assets/image (33).png>)![](<../../.gitbook/assets/image (8).png>)
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (17).png>)
 
 8\.
