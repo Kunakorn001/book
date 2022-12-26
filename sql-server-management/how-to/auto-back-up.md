@@ -30,6 +30,6 @@
 
 7.จากนั้นคลิก Next มาเรื่อย จนกระทั้งถึงหน้าที่ต้อง เลือก DataBase ให้เลือก DataBase ที่เราต้องการจะบันทึก&#x20;
 
-![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (17).png>)
 
 8\.

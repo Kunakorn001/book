@@ -70,7 +70,7 @@
 
 19.เสร็สสิ้นการติดตั้ง  SQL SERVER
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ## การติดตั้ง SQL Management
 

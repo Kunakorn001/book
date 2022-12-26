@@ -10,5 +10,5 @@
 
 3.เสร็สสิ้นการสร้าง Database
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 

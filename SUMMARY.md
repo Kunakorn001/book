@@ -7,7 +7,7 @@
 ## Set up Window Server
 
 * [Set up Window](set-up-window-server/set-up-window.md)
-* [Page 1](set-up-window-server/page-1.md)
+* [Disk Management](set-up-window-server/disk-management.md)
 
 ## sql server management
 
